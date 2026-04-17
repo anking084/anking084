@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Anking
 
-<!--
-**anking084/anking084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em automação e sistemas SaaS  
+🔐 Especialista em Cibersegurança  
+⚡ Criando soluções inteligentes, seguras e escaláveis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🔐 Especialista em Cibersegurança  
+- 🌐 Certificado em Redes (Cisco Networking Academy)  
+- 🤖 Automação de processos (bots, APIs, sistemas inteligentes)  
+- 💡 Foco em performance, segurança e resultados reais  
+
+---
+
+## 🛠️ Tecnologias
+- Python 🐍  
+- TypeScript ⚡  
+- APIs REST 🔗  
+- Automação 🤖  
+- Segurança 🔐  
+
+---
+
+## 📈 Projetos em destaque
+
+### 🔢 SaaS Number Generator
+Sistema completo com:
+- Login e autenticação  
+- Painel administrativo  
+- Controle de usuários  
+- Sistema de planos  
+
+---
+
+### 🤖 Automação Mercado Livre
+Bot inteligente para:
+- Automatizar processos  
+- Otimizar operações  
+- Aumentar produtividade  
+
+---
+
+## 🔥 Atualmente trabalhando em
+- Sistema SaaS com login + planos + painel admin  
+- Automação avançada com bots  
+- Integrações com APIs  
+
+---
+
+## 🎯 Objetivo
+Criar produtos digitais escaláveis e lucrativos  
+
+---
+
+## 📫 Contato
+Emai: anking.dev@proton.me 
+
+---
+
+## ⚡ Status
+🚀 Sempre evoluindo e criando novos projetos
