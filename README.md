@@ -15,30 +15,13 @@
 ---
 
 ## 🛠️ Tecnologias
-- Python 🐍  
-- TypeScript ⚡  
-- APIs REST 🔗  
-- Automação 🤖  
-- Segurança 🔐  
 
----
-
-## 📈 Projetos em destaque
-
-### 🔢 SaaS Number Generator
-Sistema completo com:
-- Login e autenticação  
-- Painel administrativo  
-- Controle de usuários  
-- Sistema de planos  
-
----
-
-### 🤖 Automação Mercado Livre
-Bot inteligente para:
-- Automatizar processos  
-- Otimizar operações  
-- Aumentar produtividade  
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD700)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=FFD700)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=FFD700)
+![API](https://img.shields.io/badge/API-0D1117?style=for-the-badge&logo=fastapi&logoColor=FFD700)
+![Security](https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FFD700)
 
 ---
 
@@ -55,7 +38,8 @@ Criar produtos digitais escaláveis e lucrativos
 ---
 
 ## 📫 Contato
-Emai: anking.dev@proton.me 
+📧 Email: anking.dev@proton.me  
+📸 Instagram: @andersonmeloo  
 
 ---
 
