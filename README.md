@@ -39,7 +39,7 @@ Criar produtos digitais escaláveis e lucrativos
 
 ## 📫 Contato
 📧 Email: anking.dev@proton.me  
-📸 Instagram: @andersonmeloo  
+📸 Instagram: @_andersonmeloo  
 
 ---
 
